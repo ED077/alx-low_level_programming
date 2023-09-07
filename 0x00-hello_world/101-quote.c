@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
-* main - UNIX       
+* main - UNIX
 * Return: Always 0 (Success)
 */
 int main(void)
